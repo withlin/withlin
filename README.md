@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on GuangZhou,China
-- 🌱 I’m currently learning ovn,ceph,evpn,bgp
+- 🌱 I’m currently learning ovn,ceph,evpn,bgp,istio
 - 💬 Ask me about golang,docker,kubernetes,rust,c#,typescript,js,react,vue.
 - 📫 How to reach me: withlin@apache.org
 
