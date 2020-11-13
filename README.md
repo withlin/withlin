@@ -2,20 +2,20 @@
 
 <!--
 **withlin/withlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+ovn,ceph,evpn,bgp,istio
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on GuangZhou,China
-- 🌱 I’m currently learning ovn,ceph,evpn,istio
+- 🌱 I’m currently learning dpdk,vpp,kcp,quic,rust
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about golang,docker,kubernetes,rust,c#,typescript,js,react,vue.
+- 💬 Ask me about golang,docker,kubernetes,c#,typescript,js,react,vue.
 - 📫 How to reach me: withlin@apache.org
 -->
 
 - 🔭 I’m currently working on GuangZhou,China
-- 🌱 I’m currently learning ovn,ceph,evpn,bgp,istio
-- 💬 Ask me about golang,docker,kubernetes,rust,c#,typescript,js,react,vue.
+- 🌱 I’m currently learning 
+- 💬 Ask me about golang,docker,kubernetes,c#,typescript,js,react,vue.
 - 📫 How to reach me: withlin@apache.org
 
 
