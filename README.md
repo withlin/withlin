@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on GuangZhou,China
-- 🌱 I’m currently learning dpdk,vpp,kcp,quic,rust
+- 🌱 I’m currently learning dpdk,vpp,ovs,rust,srv6,ebpf
 - 💬 Ask me about golang,docker,kubernetes,c#,typescript,js,react,vue.
 - 📫 How to reach me: withlin@apache.org
 
