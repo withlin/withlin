@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: withlin@apache.org
 -->
 
-- 🔭 I’m currently working on GuangZhou,China
+<!-- - 🔭 I’m currently working on GuangZhou,China
 - 🌱 I’m currently learning dpdk,vpp,ovs,rust,srv6,ebpf
 - 💬 Ask me about golang,docker,kubernetes,c#,typescript,js,react,vue.
 - 📫 How to reach me: withlin@apache.org
-
+ -->
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=withlin&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
